@@ -1,6 +1,6 @@
 export * from './Builder';
 export * from './Factory';
-export * from './JSONMarshal';
-export * from './Property';
+export * as JSONMarshal from './JSONMarshal';
+export * as Property from './Property';
 export * from './Serializable';
 export * from './Visitor';
