@@ -1,7 +1,7 @@
 {
-  "name": "typescript-task-tuning",
+  "name": "typescript-elevated-objects",
   "version": "1.0.0",
-  "description": "Typescript class for measuring, isolating, and optimizing system performance issues.",
+  "description": "Framework for specifying introspect-able object types that can accurately initialize themselves, marshal themselves to/from JSON and other formats with little to no additional code.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
